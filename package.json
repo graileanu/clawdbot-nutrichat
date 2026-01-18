@@ -1,0 +1,24 @@
+{
+  "name": "clawdbot-nutrichat",
+  "version": "1.0.0",
+  "type": "module",
+  "description": "NutriChat nutrition tracking integration for Clawdbot",
+  "author": "graileanu",
+  "license": "UNLICENSED",
+  "private": true,
+  "clawdbot": {
+    "extensions": [
+      "./index.ts"
+    ]
+  },
+  "dependencies": {
+    "@sinclair/typebox": "0.34.47"
+  },
+  "keywords": [
+    "clawdbot",
+    "clawdbot-plugin",
+    "nutrichat",
+    "nutrition",
+    "food-tracking"
+  ]
+}
