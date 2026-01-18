@@ -49,9 +49,8 @@ The API base URL (`https://api.nutri.chat`) is hardcoded in the plugin.
 ### Getting your API Credentials
 
 1. Log in to [NutriChat](https://my.nutri.chat)
-2. Navigate to your account settings or API access section
-3. Copy your **API Key** and **User ID**
-4. Your profile URL format: `https://my.nutri.chat/users/{your-user-id}`
+2. Go to **Settings** → **Profile** to find your **User ID**
+3. Go to **Settings** → **API Access** to find your **API Key**
 
 ## Available Tools
 
