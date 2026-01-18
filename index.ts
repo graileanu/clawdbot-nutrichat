@@ -176,7 +176,7 @@ const plugin: ClawdbotPluginDefinition = {
       },
       userId: {
         label: "User ID",
-        placeholder: "65d852ac01134c2e33028757",
+        placeholder: "abc123def456...",
         help: "Your NutriChat user ID (found in your profile URL: my.nutri.chat/users/{userId})",
       },
     },
