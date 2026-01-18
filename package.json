@@ -4,8 +4,11 @@
   "type": "module",
   "description": "NutriChat nutrition tracking integration for Clawdbot",
   "author": "graileanu",
-  "license": "UNLICENSED",
-  "private": true,
+  "license": "MIT",
+  "repository": {
+    "type": "git",
+    "url": "https://github.com/graileanu/clawdbot-nutrichat"
+  },
   "clawdbot": {
     "extensions": [
       "./index.ts"
