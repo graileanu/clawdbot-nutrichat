@@ -1,10 +1,8 @@
 # clawdbot-nutrichat
 
-Private NutriChat integration plugin for [Clawdbot](https://clawd.bot).
+NutriChat integration plugin for [Clawdbot](https://clawd.bot).
 
 This plugin allows Clawdbot to interact with your NutriChat food and nutrition tracking system - query meals, analyze nutrition data, track macros, review eating patterns, and monitor progress toward dietary goals through natural language commands.
-
-**Private plugin** - Not intended for public distribution.
 
 ## Features
 
@@ -17,12 +15,11 @@ This plugin allows Clawdbot to interact with your NutriChat food and nutrition t
 
 ## Installation
 
-Since this is a private plugin, install via symlink:
-
 ```bash
-# Symlink for development/use
-ln -s ~/Projects/clawdbot/clawdbot-nutrichat ~/.clawdbot/extensions/nutrichat
+clawdbot plugins install clawdbot-nutrichat
 ```
+
+npm: https://www.npmjs.com/package/clawdbot-nutrichat
 
 ## Configuration
 
@@ -121,4 +118,4 @@ See [examples/SKILL-TEMPLATE.md](examples/SKILL-TEMPLATE.md) for the default tem
 
 ## License
 
-Private - All rights reserved.
+MIT
